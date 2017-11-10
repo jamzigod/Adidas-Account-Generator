@@ -62,3 +62,5 @@ def write():
 
 for i in range (times):
     create_account()
+
+text_file.close()
